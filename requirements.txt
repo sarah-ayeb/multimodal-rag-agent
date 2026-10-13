@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+pytest
+httpx
+pymupdf
+faster-whisper
+psycopg[binary]
+langchain-text-splitters
+sentence-transformers
+qdrant-client
